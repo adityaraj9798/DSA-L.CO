@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
+| [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
