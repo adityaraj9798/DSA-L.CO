@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0792-binary-search) |
 ## Queue
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
