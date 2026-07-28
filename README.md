@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0367-valid-perfect-square) |
 ## Tree
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
