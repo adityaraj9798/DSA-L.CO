@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0367-valid-perfect-square) |
