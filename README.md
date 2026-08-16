@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
