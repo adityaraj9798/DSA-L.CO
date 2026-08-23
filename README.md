@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
+| [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
 ## Queue
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
+| [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0882-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
