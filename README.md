@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
