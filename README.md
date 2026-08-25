@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0747-min-cost-climbing-stairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -212,5 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
