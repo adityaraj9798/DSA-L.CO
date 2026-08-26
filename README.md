@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
 | [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
