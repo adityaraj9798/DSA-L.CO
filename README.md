@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
