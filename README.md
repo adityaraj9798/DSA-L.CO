@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1301-reformat-department-table) |
+| [1390-average-selling-price](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
