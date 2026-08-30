@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
