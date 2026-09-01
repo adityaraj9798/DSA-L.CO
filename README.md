@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0643-maximum-average-subarray-i) |
