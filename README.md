@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0647-palindromic-substrings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
 | [2690-house-robber-iv](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2690-house-robber-iv) |
