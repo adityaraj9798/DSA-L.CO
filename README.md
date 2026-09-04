@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0584-find-customer-referee) |
@@ -289,11 +290,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
