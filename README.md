@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0242-valid-anagram) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0367-valid-perfect-square) |
 | [0909-stone-game](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0909-stone-game) |
 ## Tree
@@ -293,12 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
