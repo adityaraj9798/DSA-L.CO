@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
