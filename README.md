@@ -15,6 +15,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0203-remove-linked-list-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,16 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
