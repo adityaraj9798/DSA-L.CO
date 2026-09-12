@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
