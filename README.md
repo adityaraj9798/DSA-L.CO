@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [4248-count-commas-in-range-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4248-count-commas-in-range-ii) |
@@ -46,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [0932-monotonic-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0932-monotonic-array) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
@@ -53,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -70,4 +73,16 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
