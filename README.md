@@ -52,6 +52,7 @@
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [0932-monotonic-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0932-monotonic-array) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -90,4 +91,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
