@@ -65,6 +65,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0958-sort-array-by-parity-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
+| [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
