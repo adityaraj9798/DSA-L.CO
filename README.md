@@ -55,6 +55,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
+| [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
