@@ -61,6 +61,7 @@
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0958-sort-array-by-parity-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -133,4 +135,5 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
+| [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
