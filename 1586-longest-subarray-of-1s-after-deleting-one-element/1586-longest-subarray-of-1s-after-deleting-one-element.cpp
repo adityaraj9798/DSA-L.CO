@@ -1,10 +1,7 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int ans=0;
-        int left=0;
-        int zeros=0;
-        int right=0;
+        int ans=0,left=0,zeros=0,right=0;
         for(int right=0;right<nums.size();right++){
             if(nums[right]==0){
                 zeros++;
