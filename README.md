@@ -25,6 +25,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [4248-count-commas-in-range-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4248-count-commas-in-range-ii) |
 ## Number Theory
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Binary Search
 |  |
 | ------- |
