@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## String
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
