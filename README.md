@@ -60,6 +60,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
@@ -127,6 +128,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
