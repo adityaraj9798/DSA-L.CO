@@ -66,6 +66,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
@@ -96,12 +97,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1677-matrix-diagonal-sum) |
 ## Geometry
 |  |
