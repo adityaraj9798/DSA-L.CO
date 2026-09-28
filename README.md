@@ -65,6 +65,7 @@
 | [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
@@ -98,12 +99,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1677-matrix-diagonal-sum) |
