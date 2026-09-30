@@ -29,6 +29,7 @@
 | [0441-arranging-coins](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2748-calculate-delayed-arrival-time](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2748-calculate-delayed-arrival-time) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4248-count-commas-in-range-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4248-count-commas-in-range-ii) |
