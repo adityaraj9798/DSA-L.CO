@@ -51,6 +51,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0086-partition-list) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
