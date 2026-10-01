@@ -42,6 +42,7 @@
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0627-swap-sex-of-employees) |
 | [1161-project-employees-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1161-project-employees-i) |
+| [1338-queries-quality-and-percentage](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1670-patients-with-a-condition) |
