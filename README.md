@@ -56,6 +56,7 @@
 | [0061-rotate-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0086-partition-list) |
+| [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0941-sort-array-by-parity) |
@@ -182,6 +183,7 @@
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
