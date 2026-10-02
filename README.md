@@ -72,6 +72,7 @@
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
