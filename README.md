@@ -26,6 +26,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -69,6 +70,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
+| [0396-rotate-function](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0413-arithmetic-slices) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
