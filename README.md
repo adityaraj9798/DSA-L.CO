@@ -194,9 +194,18 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
+| [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
