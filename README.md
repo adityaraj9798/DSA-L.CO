@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Timsort
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | ------- |
 | [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
@@ -204,8 +206,10 @@
 |  |
 | ------- |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
