@@ -99,6 +99,7 @@
 | [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -117,6 +118,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
