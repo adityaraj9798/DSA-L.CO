@@ -103,6 +103,7 @@
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -114,6 +115,7 @@
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -223,4 +225,12 @@
 |  |
 | ------- |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1001-n-repeated-element-in-size-2n-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
