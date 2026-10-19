@@ -100,6 +100,7 @@
 | [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
