@@ -31,6 +31,7 @@
 | [0441-arranging-coins](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2748-calculate-delayed-arrival-time) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -38,6 +39,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Database
 |  |
@@ -102,6 +104,7 @@
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -134,6 +137,7 @@
 | [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1769-get-maximum-in-generated-array) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -242,4 +246,8 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
