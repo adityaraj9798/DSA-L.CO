@@ -11,6 +11,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -62,6 +63,7 @@
 | [0061-rotate-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
 | [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [0861-flipping-an-image](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -265,4 +268,12 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
