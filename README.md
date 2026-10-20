@@ -94,6 +94,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1580-shuffle-the-array) |
@@ -121,6 +122,7 @@
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
@@ -176,6 +178,7 @@
 | [0941-sort-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -250,4 +253,16 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
