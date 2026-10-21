@@ -112,6 +112,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -169,6 +170,7 @@
 | [0441-arranging-coins](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0441-arranging-coins) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Greedy
