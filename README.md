@@ -71,6 +71,7 @@
 | [0941-sort-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -145,6 +147,7 @@
 | [2048-build-array-from-permutation](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
