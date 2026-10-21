@@ -105,6 +105,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1677-matrix-diagonal-sum) |
 | [1769-get-maximum-in-generated-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1769-get-maximum-in-generated-array) |
 | [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
+| [2048-build-array-from-permutation](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -141,6 +142,7 @@
 | [0861-flipping-an-image](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0898-transpose-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1769-get-maximum-in-generated-array) |
+| [2048-build-array-from-permutation](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
