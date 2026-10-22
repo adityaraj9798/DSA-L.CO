@@ -35,6 +35,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2748-calculate-delayed-arrival-time) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4248-count-commas-in-range-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4248-count-commas-in-range-ii) |
 ## Number Theory
@@ -119,6 +120,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
