@@ -122,6 +122,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4299-concatenate-array-with-reverse](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
+| [4299-concatenate-array-with-reverse](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4299-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
