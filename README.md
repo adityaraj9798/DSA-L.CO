@@ -14,6 +14,7 @@
 | [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0725-split-linked-list-in-parts) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
