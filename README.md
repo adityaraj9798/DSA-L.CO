@@ -102,6 +102,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0917-boats-to-save-people](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 ## Timsort
 |  |
 | ------- |
