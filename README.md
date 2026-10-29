@@ -107,6 +107,7 @@
 | [1580-shuffle-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1677-matrix-diagonal-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1769-get-maximum-in-generated-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1769-get-maximum-in-generated-array) |
 | [1833-find-the-highest-altitude](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2048-build-array-from-permutation) |
@@ -138,6 +139,7 @@
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -199,6 +201,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3778-transform-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3778-transform-array-by-parity) |
