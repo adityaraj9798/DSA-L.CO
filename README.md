@@ -56,6 +56,7 @@
 | [1670-patients-with-a-condition](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
