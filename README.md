@@ -38,6 +38,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4248-count-commas-in-range-ii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4248-count-commas-in-range-ii) |
 ## Number Theory
 |  |
@@ -127,6 +128,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4299-concatenate-array-with-reverse](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
