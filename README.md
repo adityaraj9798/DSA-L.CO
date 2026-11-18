@@ -161,6 +161,7 @@
 | [2048-build-array-from-permutation](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 | [4299-concatenate-array-with-reverse](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4299-concatenate-array-with-reverse) |
@@ -251,6 +252,7 @@
 | [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
