@@ -89,6 +89,7 @@
 | [0414-third-maximum-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0777-toeplitz-matrix) |
@@ -138,6 +139,7 @@
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0496-next-greater-element-i) |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
