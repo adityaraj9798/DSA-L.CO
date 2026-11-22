@@ -255,6 +255,7 @@
 | [0443-string-compression](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0443-string-compression) |
 | [0886-score-of-parentheses](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
