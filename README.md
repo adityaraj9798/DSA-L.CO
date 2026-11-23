@@ -107,6 +107,7 @@
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -145,6 +146,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1217-relative-sort-array) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
