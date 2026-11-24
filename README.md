@@ -36,6 +36,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2748-calculate-delayed-arrival-time) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3778-transform-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/adityaraj9798/DSA-L.CO/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -250,6 +254,7 @@
 | [0940-fruit-into-baskets](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
