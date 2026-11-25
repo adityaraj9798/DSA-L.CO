@@ -130,6 +130,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3778-transform-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
@@ -153,6 +154,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/adityaraj9798/DSA-L.CO/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
