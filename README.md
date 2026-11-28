@@ -132,6 +132,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3778-transform-array-by-parity](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3778-transform-array-by-parity) |
@@ -206,6 +207,7 @@
 | [0231-power-of-two](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/adityaraj9798/DSA-L.CO/tree/master/0861-flipping-an-image) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/adityaraj9798/DSA-L.CO/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
 | ------- |
